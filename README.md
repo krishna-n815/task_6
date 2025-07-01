@@ -5,7 +5,7 @@
 
  **📚 Objective**
  
- Practice and demonstrate SQL subqueries for extracting data from one or more tables using:
+ **Practice and demonstrate SQL subqueries for extracting data from one or more tables using:**
  Subqueries in SELECT
  Subqueries in WHERE
  Subqueries in FROM
