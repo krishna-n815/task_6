@@ -19,10 +19,15 @@
 **🚀 Features Demonstrated**
 
 1.Subqueries in SELECT (Scalar subquery)
+
 2.Subqueries in WHERE with IN
+
 3.Subqueries in WHERE with EXISTS
+
 4.Correlated subqueries
+
 5.Subqueries in FROM (Derived table)
+
 6.Nested subqueries
 
 **📜 SQL Queries Included**
