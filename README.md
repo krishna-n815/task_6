@@ -66,4 +66,4 @@ Execute all subquery examples.
 
 5.Use correlated subqueries for row-wise comparisons.
 
-6Use nested subqueries for layered filtering.
+6.Use nested subqueries for layered filtering.
